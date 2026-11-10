@@ -1,0 +1,14 @@
+runtime_state/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+generated_gifts/test_*.png
+logs/
+talkin_full/vendor/generated_billion/
+talkin_full/vendor/generated_games/
+talkin_full/vendor/generated_music/
+talkin_full/vendor/generated_publish/
+talkin_full/vendor/generated_welcomes/
+talkin_full/vendor/data/
